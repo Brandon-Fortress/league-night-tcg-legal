@@ -47,7 +47,7 @@ League data is kept while the Bot is used in a server so that season standings a
 
 - **Players** can ask to have their check-ins and results removed. Some removals change league standings.
 - **Server owners and administrators** can delete all league data for their server immediately with `/league delete-data confirm:True`, or by removing the Bot from the server. They can also ask us to delete it.
-- Send other requests to bbowen55@gmail.com or through the support server linked from the bot's /help command. Include the server ID and, if applicable, your Discord user ID. We aim to complete requests within 30 days.
+- Send other requests to bbowen55@gmail.com or through our [support server](https://discord.gg/aAXjnQ6eqc). Include the server ID and, if applicable, your Discord user ID. We aim to complete requests within 30 days.
 
 Depending on where you live, you may have additional rights, such as the right to access or correct your data. Contact us to use them.
 
@@ -71,4 +71,4 @@ We may update this policy. We will post the new version with a new effective dat
 
 Brandon Bowen
 bbowen55@gmail.com
-Support server: the support server linked from the bot's /help command
+Support server: [https://discord.gg/aAXjnQ6eqc](https://discord.gg/aAXjnQ6eqc)

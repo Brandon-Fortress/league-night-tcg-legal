@@ -62,4 +62,4 @@ These Terms are governed by the laws of the State of Alabama, United States, wit
 
 Brandon Bowen
 bbowen55@gmail.com
-Support server: the support server linked from the bot's /help command
+Support server: [https://discord.gg/aAXjnQ6eqc](https://discord.gg/aAXjnQ6eqc)
